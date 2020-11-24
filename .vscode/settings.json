@@ -1,0 +1,6 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "/Users/roofxixi/.virtualenvs/machineLearning/bin/python",
+    "vue3snippets.enable-compile-vue-file-on-did-save-code": false,
+    //"terminal.integrated.shellArgs.osx":["-c", "source /Users/roofxixi/.virtualenvs/machineLearning/bin/activate"]
+}
